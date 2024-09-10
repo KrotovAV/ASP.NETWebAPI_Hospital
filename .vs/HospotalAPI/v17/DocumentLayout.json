@@ -1,14 +1,43 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\entityes\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\entityes\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\entityes\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\entityes\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\entityes\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\entityes\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\entityes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\entityes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitaldatalayer\\entityes\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1FAA18-0FF7-4CCD-A727-895E93950F17}|HospitalDataLayer\\HospitalDataLayer.csproj|solutionrelative:hospitaldatalayer\\entityes\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 559,
+          "DockedHeight": 412,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -38,11 +67,112 @@
             {
               "$type": "Bookmark",
               "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
         {
-          "DockedHeight": 286,
+          "DockedHeight": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\appsettings.json",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\appsettings.json",
+              "RelativeToolTip": "HospitalDataLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T06:50:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\HospitalContext.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\HospitalContext.cs",
+              "RelativeToolTip": "HospitalDataLayer\\HospitalContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:12:27.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Specialization.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\Entityes\\Specialization.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Specialization.cs",
+              "RelativeToolTip": "HospitalDataLayer\\Entityes\\Specialization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:06:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\Entityes\\Patient.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Patient.cs",
+              "RelativeToolTip": "HospitalDataLayer\\Entityes\\Patient.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:05:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\Entityes\\Doctor.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Doctor.cs",
+              "RelativeToolTip": "HospitalDataLayer\\Entityes\\Doctor.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:05:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "District.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\District.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\Entityes\\District.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\District.cs",
+              "RelativeToolTip": "HospitalDataLayer\\Entityes\\District.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:04:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Cabinet.cs",
+              "RelativeDocumentMoniker": "HospitalDataLayer\\Entityes\\Cabinet.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalDataLayer\\Entityes\\Cabinet.cs",
+              "RelativeToolTip": "HospitalDataLayer\\Entityes\\Cabinet.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:03:43.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
           "SelectedChildIndex": -1,
           "Children": [
             {
