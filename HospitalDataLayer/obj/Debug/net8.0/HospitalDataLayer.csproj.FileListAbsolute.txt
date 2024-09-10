@@ -13,3 +13,4 @@ D:\Работа\GitProject\ASP.NETWebAPI_Hospital\HospitalDataLayer\obj\Debug\ne
 D:\Работа\GitProject\ASP.NETWebAPI_Hospital\HospitalDataLayer\obj\Debug\net8.0\HospitalDataLayer.pdb
 D:\Работа\GitProject\ASP.NETWebAPI_Hospital\HospitalDataLayer\obj\Debug\net8.0\HospitalDataLayer.genruntimeconfig.cache
 D:\Работа\GitProject\ASP.NETWebAPI_Hospital\HospitalDataLayer\obj\Debug\net8.0\ref\HospitalDataLayer.dll
+D:\Работа\GitProject\ASP.NETWebAPI_Hospital\HospitalDataLayer\bin\Debug\net8.0\appsettings.json

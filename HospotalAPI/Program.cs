@@ -1,4 +1,11 @@
 
+using HospitalBuissnesLayer;
+using HospitalBuissnesLayer.Implementations;
+using HospitalBuissnesLayer.Interfaces;
+using HospitalDataLayer;
+using HospitalDataLayer.Entityes;
+using Microsoft.EntityFrameworkCore;
+
 namespace HospotalAPI
 {
     public class Program
@@ -7,6 +14,14 @@ namespace HospotalAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //************
+            builder.Configuration.GetConnectionString("Connection");
+            var confBuilder = new ConfigurationBuilder();
+            confBuilder.SetBasePath(Directory.GetCurrentDirectory());
+            confBuilder.AddJsonFile("appsettings.json");
+            var cfg = confBuilder.Build();
+            //************
+
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -14,6 +29,16 @@ namespace HospotalAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            //***************** 
+            builder.Services.AddSingleton<HospitalContext>(); 
+            
+            builder.Services.AddTransient<IRepository<Cabinet>, CabinetRepository>();
+            builder.Services.AddTransient<IRepository<District>, DistrictRepository>();
+            builder.Services.AddTransient<IRepository<Doctor>, DoctorRepository>();
+            builder.Services.AddTransient<IRepository<Patient>, PatientRepository>();
+            builder.Services.AddTransient<IRepository<Specialization>, SpecializationRepository>();
+            builder.Services.AddScoped<DataManager>();
+            //*****************
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

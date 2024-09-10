@@ -1,4 +1,5 @@
-﻿using HospitalDataLayer.Interfaces;
+﻿using HospitalDataLayer.Entityes.Base;
+using HospitalDataLayer.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace HospitalDataLayer.Entityes
 {
-    public partial class Patient : IEntity
+    public partial class Patient : Entity
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
 
         public string Name { get; set; } = null!;
 
