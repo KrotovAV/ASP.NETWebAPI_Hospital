@@ -1,11 +1,6 @@
 ﻿using HospitalBuissnesLayer.Implementations;
 using HospitalBuissnesLayer.Interfaces;
 using HospitalDataLayer.Entityes;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HospitalBuissnesLayer
 {

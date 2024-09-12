@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HospitalBuissnesLayer\HospitalBuissnesLayer.csproj" />
     <ProjectReference Include="..\HospitalDataLayer\HospitalDataLayer.csproj" />
+    <ProjectReference Include="..\HospitalPresentationLayer\HospitalPresentationLayer.csproj" />
   </ItemGroup>
 
   <ItemGroup>

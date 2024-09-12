@@ -4,6 +4,8 @@ using HospitalBuissnesLayer.Implementations;
 using HospitalBuissnesLayer.Interfaces;
 using HospitalDataLayer;
 using HospitalDataLayer.Entityes;
+using HospitalPresentationLayer.Services.Interfaces;
+using HospitalPresentationLayer.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace HospotalAPI
@@ -38,6 +40,10 @@ namespace HospotalAPI
             builder.Services.AddTransient<IRepository<Patient>, PatientRepository>();
             builder.Services.AddTransient<IRepository<Specialization>, SpecializationRepository>();
             builder.Services.AddScoped<DataManager>();
+            builder.Services.AddTransient<IListEntityService<Doctor>, ListEntityService<Doctor>>();
+            builder.Services.AddTransient<IDoctorService, DoctorService>();
+            //builder.Services.AddTransient<IListEntityService<Patient>, ListEntityService<Patient>>();
+            //builder.Services.AddTransient<IPatientService, PatientService>();
             //*****************
             var app = builder.Build();
 
