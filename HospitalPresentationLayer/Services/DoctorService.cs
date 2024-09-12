@@ -6,12 +6,13 @@ using HospitalPresentationLayer.Models.Api.ListViewModels.Options;
 using HospitalPresentationLayer.Models.Api.ListViewModels;
 using HospitalPresentationLayer.Models.Api.ViewModels;
 using Microsoft.EntityFrameworkCore;
+using HospitalBuissnesLayer.Interfaces;
 
 namespace HospitalPresentationLayer.Services
 {
     public class DoctorService : IDoctorService
     {
-        private readonly DataManager _dataManager;
+        private readonly IDataManager _dataManager;
         private readonly IListEntityService<Doctor> _listDoctorService;
 
         public DoctorService(DataManager dataManager, IListEntityService<Doctor> listDoctorService)

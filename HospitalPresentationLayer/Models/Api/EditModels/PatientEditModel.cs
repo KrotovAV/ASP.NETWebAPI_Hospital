@@ -15,6 +15,6 @@ namespace HospitalPresentationLayer.Models.Api.EditModels
         public string Address { get; set; }
         public DateTime BirthdayDate { get; set; }
         public bool Gender { get; set; }
-        public int? DistrictId { get; set; }
+        public int DistrictId { get; set; }
     }
 }

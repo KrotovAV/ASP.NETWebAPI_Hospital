@@ -4,7 +4,7 @@ using HospitalDataLayer.Entityes;
 
 namespace HospitalBuissnesLayer
 {
-    public class DataManager
+    public class DataManager : IDataManager
     {
         private IRepository<Cabinet> _cabinetRepository;
         private IRepository<District> _districtRepository;

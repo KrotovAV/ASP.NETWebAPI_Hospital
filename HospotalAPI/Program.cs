@@ -40,10 +40,12 @@ namespace HospotalAPI
             builder.Services.AddTransient<IRepository<Patient>, PatientRepository>();
             builder.Services.AddTransient<IRepository<Specialization>, SpecializationRepository>();
             builder.Services.AddScoped<DataManager>();
+            builder.Services.AddTransient<IDataManager, DataManager>();
+            
             builder.Services.AddTransient<IListEntityService<Doctor>, ListEntityService<Doctor>>();
             builder.Services.AddTransient<IDoctorService, DoctorService>();
-            //builder.Services.AddTransient<IListEntityService<Patient>, ListEntityService<Patient>>();
-            //builder.Services.AddTransient<IPatientService, PatientService>();
+            builder.Services.AddTransient<IListEntityService<Patient>, ListEntityService<Patient>>();
+            builder.Services.AddTransient<IPatientService, PatientService>();
             //*****************
             var app = builder.Build();
 
