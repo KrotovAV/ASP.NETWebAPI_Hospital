@@ -4,6 +4,7 @@ using HospitalPresentationLayer.Models.Api.ListViewModels;
 using HospitalPresentationLayer.Models.Api.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using HospitalPresentationLayer.Services.Interfaces;
+using HospitalPresentationLayer.Services;
 
 namespace HospitalAPI.Controllers
 {
@@ -26,6 +27,10 @@ namespace HospitalAPI.Controllers
                 return NotFound();
             }
             var patient = _patientService.Get(id.Value);
+            if (patient == null)
+            {
+                return NotFound();
+            }
             return Ok(patient);
         }
 
@@ -39,6 +44,10 @@ namespace HospitalAPI.Controllers
         [HttpPost]
         public ActionResult<int> Post([FromBody] PatientEditModel model)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var id = _patientService.Create(model);
             return Ok(id);
         }
@@ -46,6 +55,10 @@ namespace HospitalAPI.Controllers
         [HttpPut]
         public ActionResult Put([FromBody] PatientEditModel model)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             _patientService.Update(model);
             return Ok();
         }
@@ -54,6 +67,11 @@ namespace HospitalAPI.Controllers
         public ActionResult Delete(int? id)
         {
             if (id == null)
+            {
+                return NotFound();
+            }
+            var patient = _patientService.Get(id.Value);
+            if (patient == null)
             {
                 return NotFound();
             }
