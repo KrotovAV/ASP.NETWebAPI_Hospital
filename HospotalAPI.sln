@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalBuissnesLayer", "HospitalBuissnesLayer\HospitalBuissnesLayer.csproj", "{0BB09733-669C-4C6C-AEE2-9E02E32DB651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalPresentationLayer", "HospitalPresentationLayer\HospitalPresentationLayer.csproj", "{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalPresentationLayer", "HospitalPresentationLayer\HospitalPresentationLayer.csproj", "{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAPI.Tests", "HospitalAPI.Tests\HospitalAPI.Tests.csproj", "{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

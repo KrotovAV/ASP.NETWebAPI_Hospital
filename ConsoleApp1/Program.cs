@@ -97,6 +97,32 @@ namespace ConsoleApp1
             //DoctorEditModel doctorEditModel = new DoctorEditModel { Id = 0, FullName = "Викторов Виктор Викторович", CabinetId = 7, SpecializationId = 1, DistrictId = 3 };
             //doctorService.Create(doctorEditModel);
             //Console.WriteLine("id = " + dataManager.Doctors.Items.FirstOrDefault(x => x.FullName == doctorEditModel.FullName).Id);
+
+            Console.WriteLine("Districts: ");
+
+            ListDistrictService listDistrictService = new ListDistrictService(dataManager);
+
+            DistrictService districtService = new DistrictService(dataManager, listDistrictService);
+            var distsServ = districtService.Get();
+            //ListViewModel<I, F> where I : IViewModel where F : FilterOptions {List<DoctorViewModel> List, ListOptions<DoctorFilter> Options} , 
+            foreach (var distr in distsServ)
+            {
+                Console.WriteLine();
+                Console.Write("id: " + distr.Id + " * " + distr.Num + "; Doctors: ");
+                foreach(var doc in distr.Doctors)
+                {
+                    Console.Write(doc + ", ");
+                }
+                Console.Write("; Patients: ");
+                foreach (var pat in distr.Patients)
+                {
+                    Console.Write(pat + ", ");
+                }
+                Console.Write(". ");
+            }
+
+
+
         }
     }
 }

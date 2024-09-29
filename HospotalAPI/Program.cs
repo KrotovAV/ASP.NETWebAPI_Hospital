@@ -7,6 +7,8 @@ using HospitalDataLayer.Entityes;
 using HospitalPresentationLayer.Services.Interfaces;
 using HospitalPresentationLayer.Services;
 using Microsoft.EntityFrameworkCore;
+using HospitalPresentationLayer.Models.Api.ViewModels;
+using HospitalPresentationLayer.Models.Api.ViewModels.Interfaces;
 
 namespace HospotalAPI
 {
@@ -44,8 +46,12 @@ namespace HospotalAPI
             
             builder.Services.AddTransient<IListEntityService<Doctor>, ListEntityService<Doctor>>();
             builder.Services.AddTransient<IDoctorService, DoctorService>();
+
             builder.Services.AddTransient<IListEntityService<Patient>, ListEntityService<Patient>>();
             builder.Services.AddTransient<IPatientService, PatientService>();
+
+            builder.Services.AddTransient<IListDistrictService, ListDistrictService>();
+            builder.Services.AddTransient<IDistrictService, DistrictService>();
             //*****************
             var app = builder.Build();
 

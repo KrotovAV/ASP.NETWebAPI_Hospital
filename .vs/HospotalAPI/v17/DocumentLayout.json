@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospotalapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|solutionrelative:hospotalapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospotalapi\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|solutionrelative:hospotalapi\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospotalapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|solutionrelative:hospotalapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\listdistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\listdistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BB09733-669C-4C6C-AEE2-9E02E32DB651}|HospitalBuissnesLayer\\HospitalBuissnesLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalbuissneslayer\\implementations\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BB09733-669C-4C6C-AEE2-9E02E32DB651}|HospitalBuissnesLayer\\HospitalBuissnesLayer.csproj|solutionrelative:hospitalbuissneslayer\\implementations\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B1A6A8-1B2F-4137-94C5-E51F9408A4C9}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B1A6A8-1B2F-4137-94C5-E51F9408A4C9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospotalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|solutionrelative:hospotalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\interfaces\\ilistdistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\interfaces\\ilistdistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\models\\api\\editmodels\\doctoreditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\models\\api\\editmodels\\doctoreditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalpresentationlayer\\models\\api\\listviewmodels\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEF7488-6CA7-4E11-B9B9-C7BA8C995826}|HospitalPresentationLayer\\HospitalPresentationLayer.csproj|solutionrelative:hospitalpresentationlayer\\models\\api\\listviewmodels\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB09733-669C-4C6C-AEE2-9E02E32DB651}|HospitalBuissnesLayer\\HospitalBuissnesLayer.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalbuissneslayer\\interfaces\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB09733-669C-4C6C-AEE2-9E02E32DB651}|HospitalBuissnesLayer\\HospitalBuissnesLayer.csproj|solutionrelative:hospitalbuissneslayer\\interfaces\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospotalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9300425E-4CF2-4394-A2E4-8E2BBA289733}|HospotalAPI\\HospitalAPI.csproj|solutionrelative:hospotalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}|HospitalAPI.Tests\\HospitalAPI.Tests.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u0430\\gitproject\\asp.netwebapi_hospital\\hospitalapi.tests\\patientscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA50CBAF-DF20-4BF6-A2D1-B601DB9F3A52}|HospitalAPI.Tests\\HospitalAPI.Tests.csproj|solutionrelative:hospitalapi.tests\\patientscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,44 +91,51 @@
           ]
         },
         {
-          "DockedHeight": 104,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 77,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbRepository.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalBuissnesLayer\\Implementations\\DbRepository.cs",
-              "RelativeDocumentMoniker": "HospitalBuissnesLayer\\Implementations\\DbRepository.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalBuissnesLayer\\Implementations\\DbRepository.cs",
-              "RelativeToolTip": "HospitalBuissnesLayer\\Implementations\\DbRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "ListDistrictService.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\ListDistrictService.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\ListDistrictService.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\ListDistrictService.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Services\\ListDistrictService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:44:51.516Z"
+              "WhenOpened": "2024-09-29T18:40:32.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Program.cs",
-              "RelativeDocumentMoniker": "HospotalAPI\\Program.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Program.cs",
-              "RelativeToolTip": "HospotalAPI\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAADUAAAANAAAA",
+              "Title": "IListDistrictService.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\Interfaces\\IListDistrictService.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\Interfaces\\IListDistrictService.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\Interfaces\\IListDistrictService.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Services\\Interfaces\\IListDistrictService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:02:58.07Z"
+              "WhenOpened": "2024-09-29T17:57:59.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\PatientService.cs",
-              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\PatientService.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\PatientService.cs",
-              "RelativeToolTip": "HospitalPresentationLayer\\Services\\PatientService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAsAAAA",
+              "Title": "DistrictService.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\DistrictService.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\DistrictService.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\DistrictService.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Services\\DistrictService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:23:20.172Z"
+              "WhenOpened": "2024-09-29T14:05:22.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,32 +145,111 @@
               "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\DoctorService.cs",
               "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\DoctorService.cs",
               "RelativeToolTip": "HospitalPresentationLayer\\Services\\DoctorService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAMAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:58:30.769Z"
+              "WhenOpened": "2024-09-29T18:05:31.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "HospotalAPI\\Controllers\\PatientController.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "HospotalAPI\\Controllers\\PatientController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAADwAAAANAAAA",
+              "DocumentIndex": 6,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Services\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Services\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:20:49.858Z",
+              "WhenOpened": "2024-09-29T17:54:20.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "HospotalAPI\\Controllers\\DoctorController.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "HospotalAPI\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Title": "DistrictsController.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DistrictsController.cs",
+              "RelativeDocumentMoniker": "HospotalAPI\\Controllers\\DistrictsController.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DistrictsController.cs",
+              "RelativeToolTip": "HospotalAPI\\Controllers\\DistrictsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:16:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAHMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:05:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorEditModel.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Models\\Api\\EditModels\\DoctorEditModel.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Models\\Api\\EditModels\\DoctorEditModel.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Models\\Api\\EditModels\\DoctorEditModel.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Models\\Api\\EditModels\\DoctorEditModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:58:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListViewModel.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Models\\Api\\ListViewModels\\ListViewModel.cs",
+              "RelativeDocumentMoniker": "HospitalPresentationLayer\\Models\\Api\\ListViewModels\\ListViewModel.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalPresentationLayer\\Models\\Api\\ListViewModels\\ListViewModel.cs",
+              "RelativeToolTip": "HospitalPresentationLayer\\Models\\Api\\ListViewModels\\ListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:58:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataManager.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalBuissnesLayer\\Interfaces\\IDataManager.cs",
+              "RelativeDocumentMoniker": "HospitalBuissnesLayer\\Interfaces\\IDataManager.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalBuissnesLayer\\Interfaces\\IDataManager.cs",
+              "RelativeToolTip": "HospitalBuissnesLayer\\Interfaces\\IDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:57:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientsControllerTest.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalAPI.Tests\\PatientsControllerTest.cs",
+              "RelativeDocumentMoniker": "HospitalAPI.Tests\\PatientsControllerTest.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospitalAPI.Tests\\PatientsControllerTest.cs",
+              "RelativeToolTip": "HospitalAPI.Tests\\PatientsControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:05:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospotalAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0442\u0430\\GitProject\\ASP.NETWebAPI_Hospital\\HospotalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospotalAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T03:28:44.351Z",
               "EditorCaption": ""
@@ -147,9 +257,13 @@
           ]
         },
         {
-          "DockedHeight": 33,
+          "DockedHeight": 21,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
